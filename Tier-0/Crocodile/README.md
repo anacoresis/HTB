@@ -1,4 +1,4 @@
-# HTB Machine: Ignition
+# HTB Machine: Crocodile
 
 * **OS:** Linux
 * **Difficulty:** Very Easy (Tier 0)
